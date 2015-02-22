@@ -353,5 +353,7 @@ On the server side controller we have a module which exports the list and mongoo
 
 Lastly run the `node server` on the terminal, you can see that the data will be fetched from mongodb..!
 
+To see the data in the mongodb database, switch to `mean-demo` and run `db.meetups.find()`.
+
 
     
